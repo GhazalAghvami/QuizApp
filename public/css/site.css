@@ -1,0 +1,23 @@
+
+#imgdiv {
+display: block;
+margin-left: auto;
+margin-right: auto
+}
+
+body {
+  background-color: #374771
+}
+
+h1 {
+  font-size: 4em;
+}
+
+ul {
+  font-family: verdana;
+  font-size: 1.5em;
+}
+
+p {
+font-size: :2em;
+}
